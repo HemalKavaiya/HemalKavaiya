@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 	<img src="https://komarev.com/ghpvc/?username=HemalKavaiya&style=flat-square" alt="HemalKavaiya" /> 
 </p>
 
-<!-- ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HemalKavaiya&theme=algolia" alt="HemalKavaiya" /></p>
-
-<br> -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -35,31 +31,3 @@ Here are some ideas to get you started:
 	<a href="https://www.facebook.com/hemal.kavaiya.3"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/hemal.kavaiya"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-<!-- 
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HemalKavaiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HemalKavaiya&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-<br>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HemalKavaiya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HemalKavaiya" height="192px"/>
-  <br/>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/HemalKavaiya"><img alt="HemalKavaiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HemalKavaiya&custom_title=HemalKavaiya's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HemalKavaiya&layout=compact&theme=algolia" alt="HemalKavaiya" /></a> </p> -->
