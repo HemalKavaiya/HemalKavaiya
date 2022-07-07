@@ -18,11 +18,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Python+Enthusiast;&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=HemalKavaiya&style=flat-square" alt="HemalKavaiya" /> 
-</p>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 - 📫 **hemalkavaiya@gmail.com**
